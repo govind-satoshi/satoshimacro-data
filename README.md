@@ -29,7 +29,7 @@ Daily Bitcoin and Ethereum cycle scores from the SatoshiMacro Model (a 48-signal
 
 Source and live charts: [satoshimacro.com](https://satoshimacro.com/). Methodology: [SatoshiMacro Model](https://satoshimacro.com/tools/crypto/satoshimacro-model/).
 
-Latest reading (2026-10-04): Bitcoin SMM **39.4** (Neutral), Ethereum SMM **42.3** (Neutral), Altcoin Season Index **64** (Lean alt).
+Latest reading (2026-10-04): Bitcoin SMM **38.1** (Neutral), Ethereum SMM **42.5** (Neutral), Altcoin Season Index **66** (Lean alt).
 
 ## Files
 
