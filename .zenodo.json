@@ -1,0 +1,26 @@
+{
+  "title": "SatoshiMacro Bitcoin Cycle Model and Altcoin Season Index",
+  "upload_type": "dataset",
+  "description": "Daily Bitcoin and Ethereum cycle scores from the SatoshiMacro Model (a 48-signal, six-tier cycle confluence model, 0-100 scale), plus a monthly Altcoin Season Index. Updated daily by SatoshiMacro. Source: <a href=\"https://satoshimacro.com/\">satoshimacro.com</a>.",
+  "creators": [
+    {
+      "name": "SatoshiMacro"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "bitcoin",
+    "ethereum",
+    "cryptocurrency",
+    "market cycles",
+    "time series",
+    "altcoin season"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://satoshimacro.com/tools/crypto/satoshimacro-model/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}

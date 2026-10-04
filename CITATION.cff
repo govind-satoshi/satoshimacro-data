@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "SatoshiMacro Bitcoin Cycle Model and Altcoin Season Index"
+type: dataset
+authors:
+  - name: "SatoshiMacro"
+    website: "https://satoshimacro.com"
+license: CC-BY-4.0
+url: "https://satoshimacro.com/tools/crypto/satoshimacro-model/"
+date-released: "2026-10-04"
