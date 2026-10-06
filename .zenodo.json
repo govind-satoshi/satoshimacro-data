@@ -4,7 +4,9 @@
   "description": "Daily Bitcoin and Ethereum cycle scores from the SatoshiMacro Model (a 48-signal, six-tier cycle confluence model, 0-100 scale), plus a monthly Altcoin Season Index. Updated daily by SatoshiMacro. Source: <a href=\"https://satoshimacro.com/\">satoshimacro.com</a>.",
   "creators": [
     {
-      "name": "SatoshiMacro"
+      "name": "Satoshi, Govind",
+      "affiliation": "SatoshiMacro",
+      "orcid": "0009-0003-3810-6054"
     }
   ],
   "license": "cc-by-4.0",
@@ -21,6 +23,11 @@
       "identifier": "https://satoshimacro.com/tools/crypto/satoshimacro-model/",
       "relation": "isSupplementTo",
       "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.23160928",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-workingpaper"
     }
   ]
 }
