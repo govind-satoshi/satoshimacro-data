@@ -6,19 +6,19 @@
   "generated": "2026-10-07",
   "smm_btc": {
     "date": "2026-10-07",
-    "score": 40.8,
+    "score": 39.1,
     "zone": "Neutral",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model/"
   },
   "smm_eth": {
     "date": "2026-10-07",
-    "score": 43.4,
+    "score": 40.8,
     "zone": "Neutral",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model-eth/"
   },
   "altcoin_season": {
     "date": "2026-10-07",
-    "index": 64,
+    "index": 66,
     "classification": "Lean alt",
     "page": "https://satoshimacro.com/tools/crypto/cycle-indicators/altcoin-season-index/"
   }
