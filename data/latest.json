@@ -3,7 +3,7 @@
   "url": "https://satoshimacro.com",
   "license": "CC-BY-4.0",
   "attribution": "Data: SatoshiMacro (https://satoshimacro.com)",
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "smm_btc": {
     "date": "2026-10-25",
     "score": 36,
@@ -12,13 +12,13 @@
   },
   "smm_eth": {
     "date": "2026-10-25",
-    "score": 33.3,
+    "score": 34.3,
     "zone": "Neutral",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model-eth/"
   },
   "altcoin_season": {
     "date": "2026-10-25",
-    "index": 50,
+    "index": 54,
     "classification": "Lean alt",
     "page": "https://satoshimacro.com/tools/crypto/cycle-indicators/altcoin-season-index/"
   }
