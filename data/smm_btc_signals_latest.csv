@@ -1,44 +1,44 @@
 key,tier,name,score_0_100,raw_reading
 four_year_cycle,timing,4-Year Halving Cycle,29,924 days post-halving
-drawdown_from_ath,timing,Drawdown from ATH,48.6,-41.4%
+drawdown_from_ath,timing,Drawdown from ATH,48.5,-41.5%
 days_since_ath,timing,Days Since ATH,29.6,444 days
 profitable_days,timing,Profitable Days (1Y),34.9,57.3%
-quarterly_return,timing,Quarterly Return (90D),61.3,22.1%
-mayer_multiple,valuation,Mayer Multiple,45.7,1.064308600586332
-pi_cycle_top,valuation,Pi Cycle Top,31.5,0.4872861561283493
-two_year_ma_mult,valuation,2-Year MA Multiplier,19.7,0.8174228682248169
-two_hundred_week_dist,valuation,200-Week MA Distance,12.2,1.0846646743245232
-power_law_deviation,valuation,Power Law Deviation,7.8,0.6031715041305411
-golden_ratio_mult,valuation,Golden Ratio Multiplier,33.5,0.20142395119818474
-rainbow_position,valuation,Rainbow Chart Position,7.8,0.3902204079003623
-risk_metric,valuation,Bitcoin Risk Metric,7.8,-0.2195591841992755
-mvrv_z_proxy,valuation,MVRV Z-Score (4Y MA proxy),12.7,1.118949569985097
-pi_cycle_bottom,valuation,Pi Cycle Bottom,20,1.091405640865493
-puell_multiple,miner,Puell Multiple,44.3,0.9891
-hash_ribbons,miner,Hash Ribbons,50,
+quarterly_return,timing,Quarterly Return (90D),61.2,22.0%
+mayer_multiple,valuation,Mayer Multiple,45.5,1.0627055929400446
+pi_cycle_top,valuation,Pi Cycle Top,31.5,0.4872814099892936
+two_year_ma_mult,valuation,2-Year MA Multiplier,19.5,0.8161865144658064
+two_hundred_week_dist,valuation,200-Week MA Distance,12,1.0830235510231563
+power_law_deviation,valuation,Power Law Deviation,7.8,0.6022581848485025
+golden_ratio_mult,valuation,Golden Ratio Multiplier,33.3,0.20111983235016542
+rainbow_position,valuation,Rainbow Chart Position,7.8,0.3898913554438543
+risk_metric,valuation,Bitcoin Risk Metric,7.8,-0.22021728911229146
+mvrv_z_proxy,valuation,MVRV Z-Score (4Y MA proxy),12.5,1.1172565586884995
+pi_cycle_bottom,valuation,Pi Cycle Bottom,20,1.0913968444090265
+puell_multiple,miner,Puell Multiple,44.2,0.9876
+hash_ribbons,miner,Hash Ribbons,50,expansion
 fee_share_anomaly,miner,Miner Fee Share %,12.8,0.53
-stock_to_flow_dev,miner,Stock-to-Flow Deviation,7.3,0.06893109362923795
-hashrate_pct_of_peak,miner,Hashrate (% of 365D high),22.7,77.5%
+stock_to_flow_dev,miner,Stock-to-Flow Deviation,7.2,0.06882671851119529
+hashrate_pct_of_peak,miner,Hashrate (% of 365D high),51.4,85.5%
 difficulty_adjustment,miner,Difficulty Adjustment %,63.1,5.54%
 fear_greed,sentiment,Fear & Greed Index,31.6,30
 google_trends_btc,sentiment,Google Trends: bitcoin,40.2,11
 google_trends_buy,sentiment,Google Trends: buy bitcoin,25.3,4
 google_trends_tax,sentiment,Google Trends: bitcoin tax,38.9,8
-funding_rate,sentiment,Funding Rate (aggregate),31.8,0.0053
-open_interest,sentiment,Open Interest (USD),67.6,29.5627
-coinbase_premium,sentiment,Coinbase Premium,12.6,-0.2225
-deribit_pcr_inverse,sentiment,Deribit P/C (inverse),28.3,0.7677
-dvol_implied_vol,sentiment,BTC DVOL (30D IV),6.3,40.38
-venue_spread,sentiment,Bybit-Binance Basis,3.5,0.0516
-futures_basis_3m,sentiment,3M Futures Basis,34.1,5.5%
-btc_dominance_inverse,rotation,BTC Dominance (inverse),42.2,59.93
-altcoin_season,rotation,Altcoin Season Index,74.6,56
-mstr_price,rotation,MSTR (Strategy),85,141.62
-coin_price,rotation,COIN (Coinbase),36.3,160.59
-ibit_aum,rotation,IBIT AUM Trajectory,69.7,$63.3B
+funding_rate,sentiment,Funding Rate (aggregate),32.3,0.0055
+open_interest,sentiment,Open Interest (USD),67.7,29.7885
+coinbase_premium,sentiment,Coinbase Premium,13.9,-0.2023
+deribit_pcr_inverse,sentiment,Deribit P/C (inverse),55.9,0.6201
+dvol_implied_vol,sentiment,BTC DVOL (30D IV),6.6,40.67
+venue_spread,sentiment,Bybit-Binance Basis,29.9,0.2432
+futures_basis_3m,sentiment,3M Futures Basis,34.9,5.6%
+btc_dominance_inverse,rotation,BTC Dominance (inverse),42.2,59.92
+altcoin_season,rotation,Altcoin Season Index,62.3,46
+mstr_price,rotation,MSTR (Strategy),82.9,130.51
+coin_price,rotation,COIN (Coinbase),31.2,143.54
+ibit_aum,rotation,IBIT AUM Trajectory,69.7,$62.6B
 au_btc_etf_aum,rotation,AU-listed BTC ETF AUM,93.1,A$487M
-etf_cumulative,rotation,Cumulative Spot ETF Holdings,84.4,$57282M
-etf_daily_30d,rotation,Spot ETF 30D Net Flow,24.4,$-385M
+etf_cumulative,rotation,Cumulative Spot ETF Holdings,82,$57048M
+etf_daily_30d,rotation,Spot ETF 30D Net Flow,22.3,$-619M
 mstr_btc_added,rotation,MSTR Quarterly BTC Added,3.2,0 BTC
 dxy_inverse,macro,USD Index (inverse),15.7,121.3202
 m2_yoy,macro,M2 Money Supply YoY,52.5,5.71
@@ -46,4 +46,4 @@ yield_curve,macro,2s10s Yield Curve,36.1,0.38
 vix_inverse,macro,VIX (inverse),39.7,17.2
 sp500,macro,S&P 500,98.2,7580
 nasdaq100,macro,NASDAQ 100,96.7,28385
-gold_inverse,macro,Gold Spot (inverse),7.8,$3885/oz
+gold_inverse,macro,Gold Spot (inverse),7.8,$3899/oz
