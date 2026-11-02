@@ -3,35 +3,35 @@ four_year_cycle,timing,4-Year Halving Cycle,28.5,926 days post-halving
 drawdown_from_ath,timing,Drawdown from ATH,49.1,-40.9%
 days_since_ath,timing,Days Since ATH,29.5,446 days
 profitable_days,timing,Profitable Days (1Y),36.7,59.7%
-quarterly_return,timing,Quarterly Return (90D),61.3,22.1%
-mayer_multiple,valuation,Mayer Multiple,47.1,1.0725274314187474
-pi_cycle_top,valuation,Pi Cycle Top,31.8,0.4897047575492585
-two_year_ma_mult,valuation,2-Year MA Multiplier,20.2,0.8241701501484072
-two_hundred_week_dist,valuation,200-Week MA Distance,12.7,1.092406458472618
-power_law_deviation,valuation,Power Law Deviation,8.2,0.607122479597818
-golden_ratio_mult,valuation,Golden Ratio Multiplier,34.1,0.2034406667682946
-rainbow_position,valuation,Rainbow Chart Position,8.2,0.3916381567795359
-risk_metric,valuation,Bitcoin Risk Metric,8.2,-0.21672368644092824
-mvrv_z_proxy,valuation,MVRV Z-Score (4Y MA proxy),13.2,1.1270635615216695
-pi_cycle_bottom,valuation,Pi Cycle Bottom,20.2,1.0972754361398487
-puell_multiple,miner,Puell Multiple,44.9,1.0002
+quarterly_return,timing,Quarterly Return (90D),61.2,22.0%
+mayer_multiple,valuation,Mayer Multiple,47,1.071935478971688
+pi_cycle_top,valuation,Pi Cycle Top,31.8,0.489703004754325
+two_year_ma_mult,valuation,2-Year MA Multiplier,20.1,0.8237133366717838
+two_hundred_week_dist,valuation,200-Week MA Distance,12.7,1.0918007581721707
+power_law_deviation,valuation,Power Law Deviation,8.1,0.6067855891760672
+golden_ratio_mult,valuation,Golden Ratio Multiplier,34,0.20332810606570031
+rainbow_position,valuation,Rainbow Chart Position,8.1,0.39151762899107123
+risk_metric,valuation,Bitcoin Risk Metric,8.1,-0.2169647420178575
+mvrv_z_proxy,valuation,MVRV Z-Score (4Y MA proxy),13.2,1.1264386398913422
+pi_cycle_bottom,valuation,Pi Cycle Bottom,20.2,1.097272184076944
+puell_multiple,miner,Puell Multiple,44.8,0.9997
 hash_ribbons,miner,Hash Ribbons,50,expansion
 fee_share_anomaly,miner,Miner Fee Share %,12.8,0.53
-stock_to_flow_dev,miner,Stock-to-Flow Deviation,7.7,0.06949664772650614
+stock_to_flow_dev,miner,Stock-to-Flow Deviation,7.7,0.06945808424755481
 hashrate_pct_of_peak,miner,Hashrate (% of 365D high),70.6,90.6%
 difficulty_adjustment,miner,Difficulty Adjustment %,63,5.54%
 fear_greed,sentiment,Fear & Greed Index,38.4,37
 google_trends_btc,sentiment,Google Trends: bitcoin,40.2,11
 google_trends_buy,sentiment,Google Trends: buy bitcoin,25.3,4
 google_trends_tax,sentiment,Google Trends: bitcoin tax,38.9,8
-funding_rate,sentiment,Funding Rate (aggregate),31.4,0.0052
+funding_rate,sentiment,Funding Rate (aggregate),35.6,0.0067
 open_interest,sentiment,Open Interest (USD),67.8,30.0635
-coinbase_premium,sentiment,Coinbase Premium,16.5,-0.1618
-deribit_pcr_inverse,sentiment,Deribit P/C (inverse),28.2,0.7695
-dvol_implied_vol,sentiment,BTC DVOL (30D IV),5.9,40.06
+coinbase_premium,sentiment,Coinbase Premium,17.2,-0.1508
+deribit_pcr_inverse,sentiment,Deribit P/C (inverse),6.4,1.0972
+dvol_implied_vol,sentiment,BTC DVOL (30D IV),4.4,38.5
 venue_spread,sentiment,Bybit-Binance Basis,17.5,0.173
-futures_basis_3m,sentiment,3M Futures Basis,35.2,5.6%
-btc_dominance_inverse,rotation,BTC Dominance (inverse),41.6,59.85
+futures_basis_3m,sentiment,3M Futures Basis,34.9,5.6%
+btc_dominance_inverse,rotation,BTC Dominance (inverse),41.6,59.9
 altcoin_season,rotation,Altcoin Season Index,62.3,46
 mstr_price,rotation,MSTR (Strategy),82.8,130.51
 coin_price,rotation,COIN (Coinbase),31.2,143.54
@@ -46,4 +46,4 @@ yield_curve,macro,2s10s Yield Curve,36.1,0.38
 vix_inverse,macro,VIX (inverse),39.7,17.2
 sp500,macro,S&P 500,98.1,7580
 nasdaq100,macro,NASDAQ 100,96.6,28385
-gold_inverse,macro,Gold Spot (inverse),7.8,$3899/oz
+gold_inverse,macro,Gold Spot (inverse),7.7,$3913/oz
