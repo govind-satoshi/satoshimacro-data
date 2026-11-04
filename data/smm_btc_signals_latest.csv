@@ -21,29 +21,29 @@ stock_to_flow_dev,miner,Stock-to-Flow Deviation,7.4,0.06909112298250256
 hashrate_pct_of_peak,miner,Hashrate (% of 365D high),13.1,73.1%
 difficulty_adjustment,miner,Difficulty Adjustment %,63,5.54%
 fear_greed,sentiment,Fear & Greed Index,23.2,26
-google_trends_btc,sentiment,Google Trends: bitcoin,40.2,11
-google_trends_buy,sentiment,Google Trends: buy bitcoin,25.3,4
-google_trends_tax,sentiment,Google Trends: bitcoin tax,38.9,8
-funding_rate,sentiment,Funding Rate (aggregate),35.2,0.0066
+google_trends_btc,sentiment,Google Trends: bitcoin,32.4,8
+google_trends_buy,sentiment,Google Trends: buy bitcoin,16.2,3
+google_trends_tax,sentiment,Google Trends: bitcoin tax,39.5,7
+funding_rate,sentiment,Funding Rate (aggregate),38.1,0.0078
 open_interest,sentiment,Open Interest (USD),68,30.4147
 coinbase_premium,sentiment,Coinbase Premium,15.6,-0.1771
 deribit_pcr_inverse,sentiment,Deribit P/C (inverse),18.9,0.8923
-dvol_implied_vol,sentiment,BTC DVOL (30D IV),5.9,39.88
+dvol_implied_vol,sentiment,BTC DVOL (30D IV),5.7,39.73
 venue_spread,sentiment,Bybit-Binance Basis,46.9,0.3121
 futures_basis_3m,sentiment,3M Futures Basis,36.3,5.7%
-btc_dominance_inverse,rotation,BTC Dominance (inverse),41.6,59.95
+btc_dominance_inverse,rotation,BTC Dominance (inverse),41.6,60
 altcoin_season,rotation,Altcoin Season Index,62.3,44
 mstr_price,rotation,MSTR (Strategy),82.9,130.76
 coin_price,rotation,COIN (Coinbase),30.6,137.83
 ibit_aum,rotation,IBIT AUM Trajectory,69.4,$61.8B
 au_btc_etf_aum,rotation,AU-listed BTC ETF AUM,92.8,A$487M
-etf_cumulative,rotation,Cumulative Spot ETF Holdings,79.7,$56650M
-etf_daily_30d,rotation,Spot ETF 30D Net Flow,16.7,$-1207M
+etf_cumulative,rotation,Cumulative Spot ETF Holdings,79.6,$56622M
+etf_daily_30d,rotation,Spot ETF 30D Net Flow,16.6,$-1235M
 mstr_btc_added,rotation,MSTR Quarterly BTC Added,33.5,810 BTC
 dxy_inverse,macro,USD Index (inverse),13.7,121.6656
 m2_yoy,macro,M2 Money Supply YoY,52.4,5.71
-yield_curve,macro,2s10s Yield Curve,33.4,0.32
-vix_inverse,macro,VIX (inverse),27.8,19.42
-sp500,macro,S&P 500,97.9,7541
-nasdaq100,macro,NASDAQ 100,96.4,27990
-gold_inverse,macro,Gold Spot (inverse),7.7,$3914/oz
+yield_curve,macro,2s10s Yield Curve,34.4,0.34
+vix_inverse,macro,VIX (inverse),21.1,21.15
+sp500,macro,S&P 500,98,7569
+nasdaq100,macro,NASDAQ 100,96.6,28180
+gold_inverse,macro,Gold Spot (inverse),7.7,$3963/oz
