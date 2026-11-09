@@ -1,38 +1,38 @@
 key,tier,name,score_0_100,raw_reading
 four_year_cycle,timing,4-Year Halving Cycle,26.8,933 days post-halving
-drawdown_from_ath,timing,Drawdown from ATH,48.1,-41.9%
+drawdown_from_ath,timing,Drawdown from ATH,47.4,-42.6%
 days_since_ath,timing,Days Since ATH,29,453 days
-profitable_days,timing,Profitable Days (1Y),33,54.2%
-quarterly_return,timing,Quarterly Return (90D),60.7,21.2%
-mayer_multiple,valuation,Mayer Multiple,44.3,1.0527529270127784
-pi_cycle_top,valuation,Pi Cycle Top,33,0.4971470555398611
-two_year_ma_mult,valuation,2-Year MA Multiplier,19.1,0.8099041207560869
-two_hundred_week_dist,valuation,200-Week MA Distance,11.1,1.0690153683013788
-power_law_deviation,valuation,Power Law Deviation,6.9,0.5928919809810382
-golden_ratio_mult,valuation,Golden Ratio Multiplier,33.3,0.20086148699690806
-rainbow_position,valuation,Rainbow Chart Position,6.9,0.3864877882191703
-risk_metric,valuation,Bitcoin Risk Metric,6.9,-0.22702442356165944
-mvrv_z_proxy,valuation,MVRV Z-Score (4Y MA proxy),11.8,1.1032734415654128
-pi_cycle_bottom,valuation,Pi Cycle Bottom,21.2,1.117289872375258
-puell_multiple,miner,Puell Multiple,44.4,0.9912
+profitable_days,timing,Profitable Days (1Y),29.7,49.0%
+quarterly_return,timing,Quarterly Return (90D),59.1,19.7%
+mayer_multiple,valuation,Mayer Multiple,43,1.0398707232716826
+pi_cycle_top,valuation,Pi Cycle Top,33,0.49710895458137705
+two_year_ma_mult,valuation,2-Year MA Multiplier,18.6,0.7999527001186975
+two_hundred_week_dist,valuation,200-Week MA Distance,9.9,1.055875714318144
+power_law_deviation,valuation,Power Law Deviation,6.2,0.5855990311902797
+golden_ratio_mult,valuation,Golden Ratio Multiplier,32.3,0.19839776516340066
+rainbow_position,valuation,Rainbow Chart Position,6.2,0.38380017477904105
+risk_metric,valuation,Bitcoin Risk Metric,6.2,-0.23239965044191796
+mvrv_z_proxy,valuation,MVRV Z-Score (4Y MA proxy),10.4,1.0897126031270137
+pi_cycle_bottom,valuation,Pi Cycle Bottom,21.2,1.1172188948077146
+puell_multiple,miner,Puell Multiple,43.5,0.979
 hash_ribbons,miner,Hash Ribbons,50,expansion
 fee_share_anomaly,miner,Miner Fee Share %,19.3,0.7
-stock_to_flow_dev,miner,Stock-to-Flow Deviation,6.9,0.06825860734031777
+stock_to_flow_dev,miner,Stock-to-Flow Deviation,6.3,0.067418982902665
 hashrate_pct_of_peak,miner,Hashrate (% of 365D high),5.1,66.4%
 difficulty_adjustment,miner,Difficulty Adjustment %,63,5.54%
 fear_greed,sentiment,Fear & Greed Index,29.7,29
 google_trends_btc,sentiment,Google Trends: bitcoin,32.4,8
 google_trends_buy,sentiment,Google Trends: buy bitcoin,16.2,3
 google_trends_tax,sentiment,Google Trends: bitcoin tax,39.4,7
-funding_rate,sentiment,Funding Rate (aggregate),25.2,0.0018
-open_interest,sentiment,Open Interest (USD),70.3,32.5396
-coinbase_premium,sentiment,Coinbase Premium,18.8,-0.1367
-deribit_pcr_inverse,sentiment,Deribit P/C (inverse),0.5,1.6794
-dvol_implied_vol,sentiment,BTC DVOL (30D IV),6.7,40.48
-venue_spread,sentiment,Bybit-Binance Basis,58.9,0.3795
-futures_basis_3m,sentiment,3M Futures Basis,33.7,5.4%
-btc_dominance_inverse,rotation,BTC Dominance (inverse),41.7,59.97
-altcoin_season,rotation,Altcoin Season Index,48.1,36
+funding_rate,sentiment,Funding Rate (aggregate),31,0.0051
+open_interest,sentiment,Open Interest (USD),67.2,28.5959
+coinbase_premium,sentiment,Coinbase Premium,18.6,-0.1395
+deribit_pcr_inverse,sentiment,Deribit P/C (inverse),5.4,1.1228
+dvol_implied_vol,sentiment,BTC DVOL (30D IV),6.9,40.9
+venue_spread,sentiment,Bybit-Binance Basis,1.4,0.023
+futures_basis_3m,sentiment,3M Futures Basis,32.9,5.3%
+btc_dominance_inverse,rotation,BTC Dominance (inverse),41.7,60
+altcoin_season,rotation,Altcoin Season Index,50.8,38
 mstr_price,rotation,MSTR (Strategy),82.3,128.93
 coin_price,rotation,COIN (Coinbase),30.4,134.76
 ibit_aum,rotation,IBIT AUM Trajectory,63.2,$60.3B
@@ -46,4 +46,4 @@ yield_curve,macro,2s10s Yield Curve,34.8,0.35
 vix_inverse,macro,VIX (inverse),6,28.18
 sp500,macro,S&P 500,96.5,7377
 nasdaq100,macro,NASDAQ 100,96.1,26990
-gold_inverse,macro,Gold Spot (inverse),6.8,$4075/oz
+gold_inverse,macro,Gold Spot (inverse),6.2,$4120/oz
