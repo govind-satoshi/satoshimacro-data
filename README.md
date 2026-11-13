@@ -29,14 +29,14 @@ Daily Bitcoin and Ethereum cycle scores from the SatoshiMacro Model (a 48-signal
 
 Source and live charts: [satoshimacro.com](https://satoshimacro.com/). Methodology: [SatoshiMacro Model](https://satoshimacro.com/tools/crypto/satoshimacro-model/).
 
-Latest reading (2026-11-12): Bitcoin SMM **32.4** (Neutral), Ethereum SMM **28.7** (Accumulation), Altcoin Season Index **36** (Lean BTC).
+Latest reading (2026-11-13): Bitcoin SMM **31** (Neutral), Ethereum SMM **28.4** (Accumulation), Altcoin Season Index **42** (Lean BTC).
 
 ## Files
 
 | File | Rows | Description |
 |---|---|---|
-| `data/smm_btc_daily.csv` | 5064 | Daily Bitcoin SMM score since 2013-01-01: calibrated score, raw composite, zone, and the six tier scores |
-| `data/smm_eth_daily.csv` | 3967 | Daily Ethereum SMM score since 2016-01-01, same columns |
+| `data/smm_btc_daily.csv` | 5065 | Daily Bitcoin SMM score since 2013-01-01: calibrated score, raw composite, zone, and the six tier scores |
+| `data/smm_eth_daily.csv` | 3968 | Daily Ethereum SMM score since 2016-01-01, same columns |
 | `data/smm_btc_signals_latest.csv` | 48 | Latest percentile score (0-100) for each of the Bitcoin model's signals |
 | `data/altcoin_season_index_monthly.csv` | 107 | Month-end Altcoin Season Index: share of the top 50 coins (point-in-time, stablecoins excluded) that beat Bitcoin over 90 days |
 | `data/latest.json` | 1 | Latest readings with links to the live pages |
