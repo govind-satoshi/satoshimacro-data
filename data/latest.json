@@ -12,13 +12,13 @@
   },
   "smm_eth": {
     "date": "2026-11-18",
-    "score": 26.4,
+    "score": 26,
     "zone": "Accumulation",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model-eth/"
   },
   "altcoin_season": {
     "date": "2026-11-18",
-    "index": 46,
+    "index": 48,
     "classification": "Lean BTC",
     "page": "https://satoshimacro.com/tools/crypto/cycle-indicators/altcoin-season-index/"
   }
