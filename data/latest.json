@@ -6,7 +6,7 @@
   "generated": "2026-11-21",
   "smm_btc": {
     "date": "2026-11-21",
-    "score": 25.1,
+    "score": 25,
     "zone": "Accumulation",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model/"
   },
@@ -18,7 +18,7 @@
   },
   "altcoin_season": {
     "date": "2026-11-21",
-    "index": 52,
+    "index": 54,
     "classification": "Lean alt",
     "page": "https://satoshimacro.com/tools/crypto/cycle-indicators/altcoin-season-index/"
   }
