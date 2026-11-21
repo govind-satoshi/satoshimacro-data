@@ -1,7 +1,7 @@
 {
   "title": "SatoshiMacro Bitcoin Cycle Model and Altcoin Season Index",
   "upload_type": "dataset",
-  "description": "Daily Bitcoin and Ethereum cycle scores from the SatoshiMacro Model (a 48-signal, six-tier cycle confluence model, 0-100 scale), plus a monthly Altcoin Season Index. Updated daily by SatoshiMacro. Source: <a href=\"https://satoshimacro.com/\">satoshimacro.com</a>.",
+  "description": "Daily Bitcoin and Ethereum cycle scores from the SatoshiMacro Model (a 48-signal, six-tier cycle confluence model, 0-100 scale), a monthly Altcoin Season Index, and daily mNAV for the corporate crypto treasuries Strategy (MSTR) and BitMine (BMNR) built from SEC filings. Updated daily by SatoshiMacro. Source: <a href=\"https://satoshimacro.com/\">satoshimacro.com</a>.",
   "creators": [
     {
       "name": "Satoshi, Govind",
@@ -16,7 +16,11 @@
     "cryptocurrency",
     "market cycles",
     "time series",
-    "altcoin season"
+    "altcoin season",
+    "mNAV",
+    "bitcoin treasury companies",
+    "MicroStrategy",
+    "BitMine"
   ],
   "related_identifiers": [
     {
