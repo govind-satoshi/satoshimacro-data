@@ -5,32 +5,32 @@
   "attribution": "Data: SatoshiMacro (https://satoshimacro.com)",
   "generated": "2026-11-26",
   "smm_btc": {
-    "date": "2026-11-25",
-    "score": 24.1,
+    "date": "2026-11-26",
+    "score": 25.9,
     "zone": "Accumulation",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model/"
   },
   "smm_eth": {
-    "date": "2026-11-25",
-    "score": 23.4,
+    "date": "2026-11-26",
+    "score": 24,
     "zone": "Accumulation",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model-eth/"
   },
   "altcoin_season": {
-    "date": "2026-11-25",
-    "index": 40,
-    "classification": "Lean BTC",
+    "date": "2026-11-26",
+    "index": 52,
+    "classification": "Lean alt",
     "page": "https://satoshimacro.com/tools/crypto/cycle-indicators/altcoin-season-index/"
   },
   "mstr_mnav": {
-    "date": "2026-11-24",
-    "mnav": 0.655,
+    "date": "2026-11-25",
+    "mnav": 0.6682,
     "btc_holdings": 851305,
     "page": "https://satoshimacro.com/tools/crypto/treasuries/mstr-mnav/"
   },
   "bmnr_mnav": {
-    "date": "2026-11-24",
-    "mnav": 0.7784,
+    "date": "2026-11-25",
+    "mnav": 0.7881,
     "eth_holdings": 6085564,
     "page": "https://satoshimacro.com/tools/crypto/treasuries/bmnr-mnav/"
   },
