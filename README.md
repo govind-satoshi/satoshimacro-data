@@ -35,14 +35,14 @@ Daily Bitcoin and Ethereum cycle scores from the SatoshiMacro Model (a 48-signal
 
 Source and live charts: [satoshimacro.com](https://satoshimacro.com/). Methodology: [SatoshiMacro Model](https://satoshimacro.com/tools/crypto/satoshimacro-model/).
 
-Latest reading (2026-11-27): Bitcoin SMM **24.4** (Accumulation), Ethereum SMM **24.7** (Accumulation), Altcoin Season Index **52** (Lean alt).
+Latest reading (2026-11-27): Bitcoin SMM **23.8** (Accumulation), Ethereum SMM **24.4** (Accumulation), Altcoin Season Index **58** (Lean alt).
 
 ## Files
 
 | File | Rows | Description |
 |---|---|---|
-| `data/smm_btc_daily.csv` | 5078 | Daily Bitcoin SMM score since 2013-01-01: calibrated score, raw composite, zone, and the six tier scores |
-| `data/smm_eth_daily.csv` | 3983 | Daily Ethereum SMM score since 2016-01-01, same columns |
+| `data/smm_btc_daily.csv` | 5079 | Daily Bitcoin SMM score since 2013-01-01: calibrated score, raw composite, zone, and the six tier scores |
+| `data/smm_eth_daily.csv` | 3982 | Daily Ethereum SMM score since 2016-01-01, same columns |
 | `data/smm_btc_signals_latest.csv` | 48 | Latest percentile score (0-100) for each of the Bitcoin model's signals |
 | `data/altcoin_season_index_monthly.csv` | 107 | Month-end Altcoin Season Index: share of the top 50 coins (point-in-time, stablecoins excluded) that beat Bitcoin over 90 days |
 | `data/mstr_mnav_daily.csv` | 1582 | Daily mNAV of Strategy (MSTR) since 2020-08-11: market value divided by the value of its Bitcoin, with the Bitcoin held and the estimated share count behind each day |

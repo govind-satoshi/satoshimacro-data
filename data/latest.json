@@ -5,20 +5,20 @@
   "attribution": "Data: SatoshiMacro (https://satoshimacro.com)",
   "generated": "2026-11-27",
   "smm_btc": {
-    "date": "2026-11-26",
-    "score": 24.4,
+    "date": "2026-11-27",
+    "score": 23.8,
     "zone": "Accumulation",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model/"
   },
   "smm_eth": {
-    "date": "2026-11-26",
-    "score": 24.7,
+    "date": "2026-11-27",
+    "score": 24.4,
     "zone": "Accumulation",
     "page": "https://satoshimacro.com/tools/crypto/satoshimacro-model-eth/"
   },
   "altcoin_season": {
-    "date": "2026-11-26",
-    "index": 52,
+    "date": "2026-11-27",
+    "index": 58,
     "classification": "Lean alt",
     "page": "https://satoshimacro.com/tools/crypto/cycle-indicators/altcoin-season-index/"
   },
